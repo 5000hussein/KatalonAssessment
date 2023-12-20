@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify item added in cart page is the same as the item selected from the product list page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cba07e7-d0b0-45e5-86d1-cafd1ea16bae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1af8b266-bed7-4140-810b-ca82b7a5aad1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hussein Walid'</defaultValue>
+      <description></description>
+      <id>1af8b266-bed7-4140-810b-ca82b7a5aad1</id>
+      <masked>false</masked>
+      <name>FullName</name>
+   </variable>
+</TestCaseEntity>
